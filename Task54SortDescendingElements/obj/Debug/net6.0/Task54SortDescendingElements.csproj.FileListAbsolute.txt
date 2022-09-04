@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\bin\Debug\net6.0\Task54SortDescendingElements.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\bin\Debug\net6.0\Task54SortDescendingElements.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\bin\Debug\net6.0\Task54SortDescendingElements.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\bin\Debug\net6.0\Task54SortDescendingElements.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\bin\Debug\net6.0\Task54SortDescendingElements.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\Task54SortDescendingElements.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\Task54SortDescendingElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\Task54SortDescendingElements.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\Task54SortDescendingElements.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\Task54SortDescendingElements.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\Task54SortDescendingElements.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\refint\Task54SortDescendingElements.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\Task54SortDescendingElements.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\Task54SortDescendingElements.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task54SortDescendingElements\obj\Debug\net6.0\ref\Task54SortDescendingElements.dll
