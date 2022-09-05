@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\bin\Debug\net6.0\Task60FindNumberArray3D.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\bin\Debug\net6.0\Task60FindNumberArray3D.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\bin\Debug\net6.0\Task60FindNumberArray3D.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\bin\Debug\net6.0\Task60FindNumberArray3D.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\bin\Debug\net6.0\Task60FindNumberArray3D.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\Task60FindNumberArray3D.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\Task60FindNumberArray3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\Task60FindNumberArray3D.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\Task60FindNumberArray3D.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\Task60FindNumberArray3D.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\Task60FindNumberArray3D.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\refint\Task60FindNumberArray3D.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\Task60FindNumberArray3D.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\Task60FindNumberArray3D.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task60FindNumberArray3D\obj\Debug\net6.0\ref\Task60FindNumberArray3D.dll
