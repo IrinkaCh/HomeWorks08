@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task62FillSpiralArray/1.0.0": {
+        "runtime": {
+          "Task62FillSpiralArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task62FillSpiralArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\bin\Debug\net6.0\Task62FillSpiralArray.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\bin\Debug\net6.0\Task62FillSpiralArray.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\bin\Debug\net6.0\Task62FillSpiralArray.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\bin\Debug\net6.0\Task62FillSpiralArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\bin\Debug\net6.0\Task62FillSpiralArray.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\Task62FillSpiralArray.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\Task62FillSpiralArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\Task62FillSpiralArray.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\Task62FillSpiralArray.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\Task62FillSpiralArray.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\Task62FillSpiralArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\refint\Task62FillSpiralArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\Task62FillSpiralArray.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\Task62FillSpiralArray.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks08\HomeWorks08\Task62FillSpiralArray\obj\Debug\net6.0\ref\Task62FillSpiralArray.dll
